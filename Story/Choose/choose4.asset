@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6156bcb01cc45de44a765a59b67e7aee, type: 3}
+  m_Name: choose4
+  m_EditorClassIdentifier: 
+  labels:
+  - text: "Voc\xEA precisa aprender a dividir"
+    nextScene: {fileID: 11400000, guid: 0e5536bf4ff6b61459d652b21fa86a0f, type: 2}
+  - text: "Podem revezar os cuidados da \xE1rvores"
+    nextScene: {fileID: 11400000, guid: 4bb096d85b6e23749a38ecdb3bcb3214, type: 2}

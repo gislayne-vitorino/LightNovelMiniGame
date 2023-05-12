@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6156bcb01cc45de44a765a59b67e7aee, type: 3}
+  m_Name: gameover
+  m_EditorClassIdentifier: 
+  labels:
+  - text: Jogar novamente
+    nextScene: {fileID: 11400000, guid: 97157d6f7d0b2d14985b4bc01821bc75, type: 2}

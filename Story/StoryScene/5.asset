@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cdbd1b92ed2a624e96e0d6f9f8438a8, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "Se voc\xEA n\xE3o tem certeza como deseja resolver?"
+    speaker: {fileID: 11400000, guid: 0d6fbd34aef42fc439213bc7ab10bf02, type: 2}
+  - text: "N\xE3o \xE9 bem assim...Me escute!"
+    speaker: {fileID: 11400000, guid: 934822547c3aa5d419a3d84cdf6e80f1, type: 2}
+  - text: Chega dessas besteiras!
+    speaker: {fileID: 11400000, guid: 0d6fbd34aef42fc439213bc7ab10bf02, type: 2}
+  - text: "N\xE3o te escutarei mais. V\xE1 embora."
+    speaker: {fileID: 11400000, guid: 0d6fbd34aef42fc439213bc7ab10bf02, type: 2}
+  background: {fileID: 0}
+  nextScene: {fileID: 11400000, guid: e2aed3291e5f1fa4b8c68124c384d87c, type: 2}

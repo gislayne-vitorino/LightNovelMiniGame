@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cdbd1b92ed2a624e96e0d6f9f8438a8, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Entendo...
+    speaker: {fileID: 11400000, guid: 934822547c3aa5d419a3d84cdf6e80f1, type: 2}
+  - text: "Voc\xEA tem alguma sugest\xE3o?"
+    speaker: {fileID: 11400000, guid: 0d6fbd34aef42fc439213bc7ab10bf02, type: 2}
+  background: {fileID: 0}
+  nextScene: {fileID: 11400000, guid: dcf507a3f566240419747409498fe9e6, type: 2}
